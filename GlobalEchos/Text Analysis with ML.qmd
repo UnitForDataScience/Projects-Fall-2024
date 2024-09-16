@@ -1,5 +1,5 @@
 ---
-title: "Text Analysis with Supervised Machine Learning"
+title: "Text Analysis with The Supervised Machine Learning"
 format: html
 author: Namig Abbasov 
 editor: visual
